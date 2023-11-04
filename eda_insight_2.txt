@@ -1,0 +1,4 @@
+Gender_female
+False    95
+True     88
+Name: count, dtype: int64
